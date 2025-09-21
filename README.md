@@ -35,6 +35,9 @@ Models: Classification, Regression
 On-device AI: OCR & lightweight predictive models
 
 🔄 System Flow
+<img width="2175" height="1000" alt="image" src="https://github.com/user-attachments/assets/d07df1c9-84b5-4d6b-b0bc-20110ef9e560" />
+
+
 
 User uploads or scans a medical report.
 
